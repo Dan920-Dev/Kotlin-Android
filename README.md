@@ -4,11 +4,11 @@ Ejercicios y Ejemplos de Kotlin desde cero.
 # Contenido.
 1. Introduccion: <br>
 
- - [Ejemplo 01](EjemplosBasicos/Ejemplo01.kt): Estructura Basica de Kotlin.
- - [Ejemplo 02](EjemplosBasicos/Ejemplo02.kt): Variables.
- - [Ejemplo 03](EjemplosBasicos/Ejemplo03.kt): Tipos de datos en kotlin.
- - [Ejemplo 04](EjemplosBasicos/Ejemplo04.kt): Strings.
- - [Ejemplo 05](EjemplosBasicos/Ejemplo05.kt): Arreglos.
- - [Ejemplo 06](EjemplosBasicos/Ejemplo06.kt): Tipo de dato Any.
- - [Ejemplo 07](EjemplosBasicos/Ejemplo07.kt): Operadores aritmeticos, de comparacion y logicos.
+  - [Ejemplo 01](EjemplosBasicos/Ejemplo01.kt): Estructura Basica de Kotlin.
+  - [Ejemplo 02](EjemplosBasicos/Ejemplo02.kt): Variables.
+  - [Ejemplo 03](EjemplosBasicos/Ejemplo03.kt): Tipos de datos en kotlin.
+  - [Ejemplo 04](EjemplosBasicos/Ejemplo04.kt): Strings.
+  - [Ejemplo 05](EjemplosBasicos/Ejemplo05.kt): Arreglos.
+  - [Ejemplo 06](EjemplosBasicos/Ejemplo06.kt): Tipo de dato Any.
+  - [Ejemplo 07](EjemplosBasicos/Ejemplo07.kt): Operadores aritmeticos, de comparacion y logicos.
 
