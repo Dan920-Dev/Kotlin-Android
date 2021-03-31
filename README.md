@@ -21,4 +21,11 @@ Ejercicios y Ejemplos de Kotlin desde cero.
    - [Ejemplo 04](EjemplosBasicos/Ejemplo11.kt): While y Do while.
    - [Ejemplo 05](EjemplosBasicos/Ejemplo12.kt): Funciones.
 
+2. Objetos en Kotlin:
+
+   - [Ejemplo 01](EjemplosBasicos/Ejemplo013.kt): Clases, propiedades y objetos.
+   - [Ejemplo 02](EjemplosBasicos/Ejemplo014.kt): Metodos.
+   - [Ejemplo 03](EjemplosBasicos/Ejemplo015.kt): Constructores.
+   - [Ejemplo 04](EjemplosBasicos/Ejemplo016.kt): Herencia y tipos de clases.
+
 
