@@ -13,3 +13,12 @@ Ejercicios y Ejemplos de Kotlin desde cero.
    - [Ejemplo 06](EjemplosBasicos/Ejemplo06.kt): Tipo de dato Any.
    - [Ejemplo 07](EjemplosBasicos/Ejemplo07.kt): Operadores aritmeticos, de comparacion y logicos.
 
+2. Estructuras en Kotlin:
+
+   - [Ejemplo 01](EjemplosBasicos/Ejemplo08.kt): If else.
+   - [Ejemplo 02](EjemplosBasicos/Ejemplo09.kt): When.
+   - [Ejemplo 03](EjemplosBasicos/Ejemplo10.kt): For.
+   - [Ejemplo 04](EjemplosBasicos/Ejemplo11.kt): While y Do while.
+   - [Ejemplo 05](EjemplosBasicos/Ejemplo12.kt): Funciones.
+
+
